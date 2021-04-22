@@ -40,7 +40,9 @@ public class NumDecoding {
             char rear = s.charAt(i + 1);
             if (front == '1') {
                 count ++ ;
-            } else if (front == '2' && ())
+            } else if (front == '2' && (true)) {
+
+            }
         }
         return count;
     }
